@@ -18,7 +18,7 @@
 .sidebar {
   Float: right;
   background-color: lightsalmon;
-  height: 500px;
+  height: 1000px;
   width: 300px;
   font-style: italic;
 }
@@ -32,18 +32,19 @@
 .about {
   float left;
   text-decoration: underline;
-  margin-left: 25px;
+  margin-left: 0px;
 }
 
 .card1 {
   float: left;
-  width: 300px;
+  width: 800px;
   background-color: bisque;
 }
 
 .card2 {
   float: left;
-  width: 300px;
+  width: 800px;
+  height: 150px;
   background-color: bisque;
 }
 
@@ -51,8 +52,29 @@
   padding-left: 15px;
 }
 
+.pets {
+  text-decoration: underline;
+  text-align: left;
+}
+.sisko {
+  display: block;
+  float:left;
+  width: 50%;
+}
 
+.radar {
+  display: block;
+  float:left;
+  width: 50%;
+  padding-bottom: 25px;
+}
 
+.background {
+  text-align: center;
+}
 
+.important {
+  color:indigo;
+}
 
 
