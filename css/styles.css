@@ -1,0 +1,58 @@
+.intro {
+  text-align: center;
+  color:lightsalmon;
+}
+
+.body {
+  background-color: lightpink;
+}
+
+.selfie {
+  height: 200px;
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sidebar {
+  Float: right;
+  background-color: lightsalmon;
+  height: 500px;
+  width: 300px;
+  font-style: italic;
+}
+
+.sidebar-header {
+  text-align: center;
+  text-decoration: underline;
+  font-style: italic;
+}
+
+.about {
+  float left;
+  text-decoration: underline;
+  margin-left: 25px;
+}
+
+.card1 {
+  float: left;
+  width: 300px;
+  background-color: bisque;
+}
+
+.card2 {
+  float: left;
+  width: 300px;
+  background-color: bisque;
+}
+
+.card-text {
+  padding-left: 15px;
+}
+
+
+
+
+
+
