@@ -1,7 +1,7 @@
 .intro {
   text-align: center;
   color:lightsalmon;
-  text-shadow: 50px blueviolet
+  font-weight: bolder;
 }
 
 .jumbotron {
@@ -24,7 +24,7 @@
 .sidebar {
   Float: right;
   background-color: lightsalmon;
-  height: 1500px;
+  height: 1300px;
   width: 300px;
   font-style: italic;
   border-radius: 25px;
@@ -40,6 +40,7 @@
   float: left;
   text-decoration: underline;
   margin-left: 0px;
+  font-weight: bold;
 }
 
 .card1 {
@@ -66,6 +67,7 @@
   text-decoration: underline;
   text-align: left;
   margin-top: 10px;
+  font-weight: bold;
 }
 .dog {
   display: block;
@@ -85,9 +87,7 @@
 
 .background {
   text-align: center;
-  padding: 25px;
-  border: 5pt;
-  box-sizing: border-box;
+  margin: 100px;
 }
 
 .important {
