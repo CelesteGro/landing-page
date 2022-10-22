@@ -8,10 +8,10 @@
 ## Description
 _This page contains links to completed projects and background information about myself_
 ## Setup/Installation requirements
-_*Clone GitHub repository from link https://github.com/CelesteGro/landing-page.git_
-_*Navigate to top of directory_
-_*Open index.html in browser_
-_*Also accessible at gh-pages https://celestegro.github.io/landing-page/_
+  *Clone GitHub repository from link https://github.com/CelesteGro/landing-page.git
+  *Navigate to top of directory
+  *Open index.html in browser
+  *Also accessible at gh-pages https://celestegro.github.io/landing-page/
 ## Known bugs
   * No known bugs
 ## License
